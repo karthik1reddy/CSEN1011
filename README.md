@@ -1,4 +1,4 @@
-# C
+
 
 This is the Template Repl for C.
 
