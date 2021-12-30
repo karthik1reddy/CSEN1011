@@ -1,0 +1,6 @@
+/* Algorithm
+01. Start
+02. Accept the value and run it with the given formula
+03. Display the result obeying the given conditions
+04. Stop */
+
