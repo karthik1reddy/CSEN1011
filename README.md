@@ -1,7 +1,5 @@
+# CSEN1011
 
+## MODULE-1
+[armstrong.c](https://github.com/karthik1reddy/CSEN1011/blob/49b3958aa275cbd606241fa9fab0a232a5f1da03/armstrong.c)<br />
 
-This is the Template Repl for C.
-
-C is a low-level and cross-platform imperative language. It was created in 1972 and many other languages have been influenced by it.
-
-[While there isn't "official" C documentation, check out Microsoft's resources here](https://docs.microsoft.com/en-us/cpp/c-language).
