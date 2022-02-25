@@ -1,0 +1,7 @@
+start
+enter the first row and first column
+enter the second row and second column
+add all the rows and columns divide with 2
+if the remainder get 0 then print the value is true 
+else
+print the value false
