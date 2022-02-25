@@ -27,7 +27,7 @@
 [finding distance.rap](https://github.com/karthik1reddy/CSEN1011/blob/9b2f949e7f21b564f74ed4996baf92758cf99c16/finding%20distance.rap)<br />
 [fibonacci20.rap](https://github.com/karthik1reddy/CSEN1011/blob/9b2f949e7f21b564f74ed4996baf92758cf99c16/fibonacci20.rap)<br />
 [collatz sequence.rap](https://github.com/karthik1reddy/CSEN1011/blob/9b2f949e7f21b564f74ed4996baf92758cf99c16/collatz%20sequence.rap)<br />
-[avg marks.rap](https://github.com/karthik1reddy/CSEN1011/blob/9b2f949e7f21b564f74ed4996baf92758cf99c16/avg%20marks.rap)<br />
 [actual fact (1).rap](https://github.com/karthik1reddy/CSEN1011/blob/9b2f949e7f21b564f74ed4996baf92758cf99c16/actual%20fact%20(1).rap)<br />
 [SI,CI.rap](https://github.com/karthik1reddy/CSEN1011/blob/9b2f949e7f21b564f74ed4996baf92758cf99c16/SI,CI.rap)<br />
 
+## finalassignment
